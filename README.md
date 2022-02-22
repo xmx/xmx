@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- 头像居中显示 -->
+<p align="center">
+     <img width="100px" src="https://avatars.githubusercontent.com/u/76583642" alt="Wang ZY" />
+</p>
+
+[![Top Langs](https://activity-graph.herokuapp.com/graph?username=xmx&theme=xcode)](https://github.com/xmx)
 
 <!--
 **xmx/xmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
