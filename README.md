@@ -1,10 +1,16 @@
-<!-- 头像居中显示 -->
+<h1 align="center">Wang ZY</h1>
+<div align="center">
+
 <p align="center">
-     <img width="100px" src="https://avatars.githubusercontent.com/u/76583642" alt="Wang ZY" />
+  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmx&theme=react&show_icons=true" />
+  <img height="240" src="https://github-readme-stats.vercel.app/api?username=xmx&show_icons=true&theme=react&include_all_commits=true" />
 </p>
+<div align="center">
+     
+[![xmx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xmx&theme=react)](https://github.com/xmx)
 
-[![Top Langs](https://activity-graph.herokuapp.com/graph?username=xmx&theme=xcode)](https://github.com/xmx)
-
+     
+     
 <!--
 **xmx/xmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
