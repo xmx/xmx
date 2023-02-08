@@ -1,11 +1,13 @@
-<h1 align="center">👋Wang ZY</h1>
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=eeeeee&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Wang+ZY)](https://git.io/typing-svg)
+
+
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmx&theme=react&show_icons=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=xmx&show_icons=true&theme=react&include_all_commits=true" />
 </p>
-<div align="center">
      
 [![xmx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xmx&theme=react)](https://github.com/xmx)
 
